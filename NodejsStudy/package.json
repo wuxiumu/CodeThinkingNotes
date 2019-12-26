@@ -1,0 +1,18 @@
+{
+  "name": "nodejsstudy",
+  "version": "1.0.0",
+  "description": "学习",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "study"
+  ],
+  "author": "wuxiumu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
